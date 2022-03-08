@@ -10,12 +10,4 @@
 
 [![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal-rajnoor&theme=dark)](https://github.com/harshal-rajnoor/github-readme-stats)
 
-<twitter href = "https://twitter.com/harshal_rajnor">
-<img src="images/twitter.png" width = "30">
-</twitter> 
-<instagram href="https://www.instagram.com/harshal_rajnoor/">
-<img src="images/instagram.png" width = "30">
-</instagram>
-<linkedin href="https://www.linkedin.com/in/harshal-rajnoor-403028195/">
-<img src="images/linkedin.png" width = "30">
-</linkedin>
+[![Twitter](/images/twitter.png)](https://twitter.com/harshal_rajnor) [![Instagram](/images/instagram.png)](https://www.instagram.com/harshal_rajnoor/) [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/harshal-rajnoor-403028195/)
