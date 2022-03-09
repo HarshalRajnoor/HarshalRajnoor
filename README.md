@@ -9,5 +9,5 @@
 
 [![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal-rajnoor&theme=dark)](https://github.com/harshal-rajnoor/github-readme-stats)
 
-## Connect me 👇🏼
+## Connect with me 👇🏼
 [![Twitter](/images/twitter.png)](https://twitter.com/harshal_rajnor) [![Instagram](/images/instagram.png)](https://www.instagram.com/harshal_rajnoor/) [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/harshal-rajnoor-403028195/)
