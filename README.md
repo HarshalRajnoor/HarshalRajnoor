@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Harshal
 
 
-- 🔭 I’m currently working on VShare
+- 🔭 I’m currently working on C++
 - 🌱 I’m currently learning web development
 - 💬 Ask me about Java, DSA and C.
 - ⚡ Fun fact: It’s all 0’s and 1’s
