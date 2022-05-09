@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Vshare.
 - 🌱 I’m currently learning web development.
-- 💬 Ask me about Java, DSA and C.
+- 💬 Ask me about Java, DSA and C/C++.
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 - 📫 How to reach me: harshalrajnor852056@gmail.com
 
