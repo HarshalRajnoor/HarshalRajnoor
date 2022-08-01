@@ -10,4 +10,7 @@
 [![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshalRajnoor&theme=dark)](https://github.com/harshal-rajnoor/github-readme-stats)
 
 ### Connect with me 👇🏼
-[![Twitter](/images/twitter.png)](https://twitter.com/NeoFromMatrix01) [![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/harshal-rajnoor-403028195/)
+
+<a href="https://twitter.com/NeoFromMatrix01"><img src="images/twitter.png" width="30px" ></a>
+
+<a href="https://www.linkedin.com/in/harshal-rajnoor-403028195/"><img src="images/linkedin.png" width="30px" ></a>
