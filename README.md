@@ -14,6 +14,6 @@ alt="tailwind-css" width="40" height="40"/> </a><a href="https://git-scm.com/" t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshal_rajnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshal_rajnoor" height="30" width="40" /></a><a href="https://www.linkedin.com/in/harshal-rajnoor-403028195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal rajnoor" height="30" width="40" /></a><a href="https://instagram.com/harshal_rajnoor" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_rajnoor" height="30" width="40" /></a>
+<a href="https://twitter.com/harshal_rajnoor" target="blank"><img align="center" src="images/twitter.png" alt="harshal_rajnoor" height="30" width="35" style="padding:5;"/></a><a href="https://www.linkedin.com/in/harshal-rajnoor-403028195" target="blank"><img align="center" src="images/linkedin.png" alt="harshal rajnoor" height="30" width="40" style="padding:5;"/></a><a href="https://instagram.com/harshal_rajnoor" target="blank">
+<img align="center" src="images/instagram.png" alt="harshal_rajnoor" height="30" width="30" style="padding:5;" /></a>
 </p>
