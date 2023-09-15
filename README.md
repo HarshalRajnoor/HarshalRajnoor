@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshal_rajnoor" target="blank"><img src="https://img.shields.io/twitter/follow/harshal_rajnoor?logo=twitter&style=for-the-badge" alt="harshal_rajnoor" /></a> </p>
 
-- 🔭 I’m currently working on **Cypher** ***an encrypted messaging app***.
+- 🔭 I’m currently working on **Edumo** **_a web application that empowers users to showcase their academic and technical accomplishments_**.
 
 - 📧 How to reach me: harshalrajnor852056@gmail.com
 
